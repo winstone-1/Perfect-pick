@@ -36,7 +36,7 @@ This storefront serves as the primary digital home for the brand, acting as the 
 ## Screenshots
 
 ## Live Link
-[see my website]()
+[see my website](https://github.com/winstone-1/Perfect-pick.git)
 
 ## set up abt installation
 ### clone the repository
@@ -51,6 +51,7 @@ cd perfect-pick
 ## Technologies Used
 - HTML
 - GITHUB PAGES
+- git and github 
 
 ## Known Bugs
 There are no bugs
