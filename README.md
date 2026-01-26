@@ -34,7 +34,11 @@ Mobile-First Precision: A fully responsive design that ensures the "luxury" feel
 This storefront serves as the primary digital home for the brand, acting as the landing destination for promotional emails, social media storefronts, and seasonal advertising campaigns.
 
 ## Screenshots
+!(landing pagescreenshot){![alt text](![alt text](<Screenshot 1-1.png>))}
 
+!(landing pagescreenshot){![alt text](![alt text](![alt text](<Screenshot 2.png>)))}
+
+!(landing pagescreenshot){![alt text](![alt text](![alt text](<Screenshot 3.png>)))}
 ## Live Link
 [see my website](https://github.com/winstone-1/Perfect-pick.git)
 
